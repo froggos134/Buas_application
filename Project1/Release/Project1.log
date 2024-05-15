@@ -1,0 +1,14 @@
+﻿  Game.cpp
+C:\BUAS_Intake\main\Project1\Game.cpp(148,29): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Player.cpp
+C:\BUAS_Intake\main\Project1\Player.cpp(143,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\BUAS_Intake\main\Project1\Player.cpp(151,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\BUAS_Intake\main\Project1\Player.cpp(160,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\BUAS_Intake\main\Project1\Player.cpp(168,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SwagBall.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 242 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\BUAS_Intake\main\Release\Project1.exe
