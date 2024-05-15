@@ -1,2 +1,2 @@
 # Buas_application
-This is game for the BUAS application.
+This is my game for the BUAS application.
